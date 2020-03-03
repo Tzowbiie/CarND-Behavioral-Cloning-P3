@@ -19,10 +19,10 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./TestImages/cnn-architecture-624x890.png "Model Visualization"
-[image2]: ./TestImages/Test0.jpg "Normal Image"
-[image3]: ./TestImages/Test1.jpg "Flipped Image"
-[image4]: ./TestImages/Test2.jpg "Normal Image"
-[image5]: ./TestImages/Test3.jpg "Flipped Image"
+[image2]: ./TestImages/test0.jpg "Normal Image"
+[image3]: ./TestImages/test1.jpg "Flipped Image"
+[image4]: ./TestImages/test2.jpg "Normal Image"
+[image5]: ./TestImages/test3.jpg "Flipped Image"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
