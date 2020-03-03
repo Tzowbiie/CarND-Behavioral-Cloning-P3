@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./TestImages/cnn-architecture-624x890png "Model Visualization"
+[image1]: ./TestImages/cnn-architecture-624x890.png "Model Visualization"
 [image2]: ./TestImages/Test0.jpg "Normal Image"
 [image3]: ./TestImages/Test1.jpg "Flipped Image"
 [image4]: ./TestImages/Test2.jpg "Normal Image"
@@ -107,8 +107,8 @@ To augment the data set, I also flipped images and steering angles. So it is gua
 
 ![alt text][image2]
 ![alt text][image3]
-![alt text][image3]
 ![alt text][image4]
+![alt text][image5]
 
 Images were augmended even more by randomly cropping the image and removing top and bottom pixels of the image. Since the upper part of the image (mostly sky) and the hood of the car imply no helpful information about the steering angle. By adding a random factor for each image I tried to improve the generalisation of the CNN and make predictions more robust. (model.py line 45-67)
 
