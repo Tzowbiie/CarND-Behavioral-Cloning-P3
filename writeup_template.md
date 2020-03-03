@@ -117,3 +117,5 @@ After the collection process, I had about 57.000 data points.
 I finally randomly shuffled the data set and put 10% of the data into a validation set. 
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. I used an adam optimizer so that manually training the learning rate wasn't necessary.
+
+The complete video of the final lap can be watched unter the repository: video.mp4
