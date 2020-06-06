@@ -1,3 +1,12 @@
+[//]: # (Image References)
+
+[image1]: ./TestImages/cnn-architecture-624x890.png "Model Visualization"
+[image2]: ./TestImages/test0.jpg "Normal Image"
+[image3]: ./TestImages/test1.jpg "Flipped Image"
+[image4]: ./TestImages/test2.jpg "Normal Image"
+[image5]: ./TestImages/test3.jpg "Flipped Image"
+[image6]: ./p3-autonom.gif "Gif"
+
 # Behavioral Cloning Project
 
 The goals / steps of this project are the following:
@@ -7,14 +16,10 @@ The goals / steps of this project are the following:
 * Test that the model successfully drives around track one without leaving the road
 * Summarize the results with a written report
 
+Here is a short glance at the result:
+![alt text][image6]
 
-[//]: # (Image References)
 
-[image1]: ./TestImages/cnn-architecture-624x890.png "Model Visualization"
-[image2]: ./TestImages/test0.jpg "Normal Image"
-[image3]: ./TestImages/test1.jpg "Flipped Image"
-[image4]: ./TestImages/test2.jpg "Normal Image"
-[image5]: ./TestImages/test3.jpg "Flipped Image"
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
