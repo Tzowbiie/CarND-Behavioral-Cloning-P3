@@ -16,7 +16,7 @@ The goals / steps of this project are the following:
 * Test that the model successfully drives around track one without leaving the road
 * Summarize the results with a written report
 
-Here is a short glance at the result:
+Here is a short glance at the result (4xspeed):
 
 ![alt text][image6]
 
