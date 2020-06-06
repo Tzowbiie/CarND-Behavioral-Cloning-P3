@@ -17,6 +17,7 @@ The goals / steps of this project are the following:
 * Summarize the results with a written report
 
 Here is a short glance at the result:
+
 ![alt text][image6]
 
 
@@ -116,8 +117,9 @@ I finally randomly shuffled the data set and put 10% of the data into a validati
 
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
-The complete video of the final lap can be watched under the repository: video.mp4
+The complete video of the final lap can be watched under the repository: /.video.mp4
 
+![alt text][image6]
 
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
